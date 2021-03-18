@@ -6,7 +6,7 @@ Following the same idea, I try to imitate the drs technology in python with the 
 basic GUI techniques(Tkinter Module) and bit of Basics of Image-processing(OpenCv Module), so 
 I can experience the role of Third Umpire in order to give correct decisions.
 
-# Task Performed by this software:
+## Task Performed by this software:
 
 1. Basically this software takes a short clip as an input named as 'clip.mp4' as specified in code
 and with the help of buttons created with tkinter module the fps(the frame speed per second) is 
@@ -22,7 +22,7 @@ varied, so that video can be played in reverse and forward modes in order to giv
 5. After that finally the decision is shown that whether player is out or not out
   and as a result 'out.jpg' or 'not_out.jpg' depending on the decision made.
    
-# You have to install following Python Modules to run the code in your Local Machine:
+## You have to install following Python Modules to run the code in your Local Machine:
 
 1. Tkinter is the first module you need in order to implement GUI Interface for the mainwindow.
   It is the inbuilt module so need to install it.
