@@ -19,7 +19,8 @@ varied, so that video can be played in reverse and forward modes in order to giv
 
 4. Then after sponsors of the game i.e 'sponsors.jpg' is loaded in the software.
 
-5. After that finally the decision is shown that whether player is out or not out.
+5. After that finally the decision is shown that whether player is out or not out
+  and as a result 'out.jpg' or 'not_out.jpg' depending on the decision made.
    
 # You have to install following Python Modules to run the code in your Local Machine:
 
